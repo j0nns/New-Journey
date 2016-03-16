@@ -3,7 +3,7 @@
 <style>
 p{color:Blue;
 Background-color:grey;
-font-family:courier:
+font-family:courier;
 }
 </style>
 <h1>soul surfing</h1> 
